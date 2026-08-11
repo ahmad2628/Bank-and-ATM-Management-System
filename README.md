@@ -69,7 +69,6 @@ g++ "Bank & ATM Management System.cpp" -o bank.exe
 | Email    | `m.ahmad@gmail.com` |
 | Password | `ahmad123`           |
 
-> You can change these directly in the `menu()` function inside the `.cpp` file before compiling.
 
 ## Usage Notes
 
